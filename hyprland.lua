@@ -65,6 +65,7 @@ local menu        = "hyprlauncher"
 
 hl.env("XCURSOR_SIZE", "24")
 hl.env("HYPRCURSOR_SIZE", "24")
+hl.env("GSK_RENDERER", "cairo")
 
 
 -----------------------
